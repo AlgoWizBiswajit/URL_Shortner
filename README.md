@@ -1,2 +1,2 @@
 # URL_Shortner
-this project is build for creating the url shortner
+this project is build for creating a short url.
